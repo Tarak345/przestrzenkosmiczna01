@@ -1,0 +1,51 @@
+* {padding:0;margin:0;}
+html {width:100%;height:100%;}
+
+body
+{
+	background:black;
+	text-align: center;
+}
+.tttt
+{
+	color:cyan;
+	font-size:30px;
+	text-align:center;
+
+}
+.ree
+{
+	color:blue;
+	font-size:45px;
+	text-align:center;
+}
+.rrrrr
+{
+	color:lightcyan;
+	font-size:30px;
+	text-align:center;
+}
+.linkaczzz
+{
+	color:rgb(166, 255, 0);
+	font-size:30px;
+	text-align:center;
+}
+
+
+@media (min-width: 1100px) {
+.hihi {width:1050px;margin:0 auto;}
+}
+@media (max-width: 1100px) and (min-width: 1000px) {
+.hihi {width:950px;margin:0 auto;}
+}
+@media (max-width: 1000px) and (min-width: 800px) {
+.hihi {width:750px;margin:0 auto;}
+}
+@media (max-width: 800px) and (min-width: 500px) {
+.hihi {width:450px;margin:0 auto;}
+}
+@media (max-width: 500px) {
+.hihi {width:300px;margin:0 auto;}
+}
+

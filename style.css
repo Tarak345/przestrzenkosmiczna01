@@ -1,0 +1,76 @@
+* {padding:0;margin:0;}
+html {width:100%;height:100%;}
+body
+{
+	background: black;
+	text-align: center;
+	
+}
+@media (min-width: 1100px) {
+.haha {width:1050px;margin:0 auto;}
+}
+@media (max-width: 1100px) and (min-width: 1000px) {
+.haha {width:950px;margin:0 auto;}
+}
+@media (max-width: 1000px) and (min-width: 800px) {
+.haha {width:750px;margin:0 auto;}
+}
+@media (max-width: 800px) and (min-width: 500px) {
+.haha {width:450px;margin:0 auto;}
+}
+@media (max-width: 500px) {
+.haha {width:300px;margin:0 auto;}
+}
+.vv
+{
+	color:hotpink;
+	font-size:25px;
+	text-align:center;
+}
+.ff
+{
+	color:greenyellow;
+	font-size:65px;
+	text-align:center;
+}
+.qwww
+{
+	color:moccasin;
+	font-size:25px;
+	text-align:center;
+}
+.insta
+{
+	text-align:center;
+}
+.socjal
+{
+	size:50px;
+	text-align:center;
+}
+.vffv
+{
+	color:deepskyblue;
+	font-size:25px;
+	text-align:center;
+}
+.zdjec
+{
+	color:tomato;
+	font-size:25px;
+	text-align:center;
+}
+.buuu
+{
+	text-align:center;
+}
+
+.preloader {
+	margin: 80px auto 0;
+	font-size: 70px;
+	width: 1em;
+	height: 1em;
+	border-radius: 50%;
+	animation: animation 1.7s infinite ease;
+}
+
